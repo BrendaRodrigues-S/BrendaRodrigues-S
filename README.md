@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Brenda e sou uma profissional dedicada e apaixonada por desenvolvimento de software. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e constantemente aprimoro minhas habilidades.</p>
+<p align="left">Meu nome é Brenda e sou uma profissional dedicada e apaixonada por desenvolvimento de software. Formada em Análise e Desenvolvimento de Sistemas e constantemente aprimoro minhas habilidades.</p>
 
 ###
 
